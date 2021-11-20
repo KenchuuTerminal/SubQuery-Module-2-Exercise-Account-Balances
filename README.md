@@ -6,6 +6,10 @@ SubQuery powers the next generation of Polkadot dApps by allowing developers to 
 
 This subquery example indexes the deposit balance of each account and it is an example of an EventHandler. By processing substrate events with the use of the "balances/Deposit" mapping filter, we can obtain account and the DOT balance of the account.
 
+# SubQuery Result - Account balance
+
+![alt text](https://github.com/TsuyuKenchuu/SubQuery-M02/blob/master/SubQuery-M02.JPG?raw=true)
+
 # Getting Started
 
 ### 1. Clone the entire subql-example repository
