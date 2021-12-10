@@ -2,11 +2,11 @@
 
 SubQuery powers the next generation of Polkadot dApps by allowing developers to extract, transform and query blockchain data in real time using GraphQL. In addition to this, SubQuery provides production quality hosting infrastructure to run these projects in.
 
-# SubQuery - Account balance
+# SubQuery Example - Account balance
 
 This subquery example indexes the deposit balance of each account and it is an example of an EventHandler. By processing substrate events with the use of the "balances/Deposit" mapping filter, we can obtain account and the DOT balance of the account.
 
-# SubQuery - Account balance : Result
+# SubQuery Example - Account balance : Result
 
 ![alt text](https://github.com/TsuyuKenchuu/SubQuery-Module-2-Exercise-Account-Balances/blob/master/SubQuery-M02.JPG?raw=true)
 
